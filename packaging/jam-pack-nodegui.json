@@ -55,13 +55,13 @@
     "skip": false,
     "description": "A NodeGui application",
     "detailColors": "3db54a 000000",
-    "appTitle": "nodeguiapp",
+    "appTitle": "lohmann-fms",
     "installerIcon": "$pruneStep_trashDirectory/packaging/windows/nodeguiapp.ico",
     "uninstallerIcon": "$pruneStep_trashDirectory/packaging/windows/nodeguiapp.ico"
   },
   "dmg" : {
     "applicationIcon": "$pruneStep_trashDirectory/packaging/macos/nodeguiapp.icns",
-    "applicationTitle": "nodeguiapp",
+    "applicationTitle": "lohmann-fms",
     "nsHumanReadableCopyright": "Copyright 2023 Someone",
     "cfBundleIdentifier": "com.someapp.someapp",
     "prePack": []
